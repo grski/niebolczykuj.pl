@@ -1,0 +1,16 @@
+[tool.braindead.config]
+base_url = "https://niebolczykuj.pl/"  # give full url ending with slash here
+dist_dir = "public"
+title = "Bolczyk Bolczykuje"
+description = "Welcome to VC & Startup world. The seventh circle of hell."
+content = ""
+name = "grski.pl"
+logo = "logo_url"
+heading = "Investimus ut vivamus, non vivimus ut investamus"
+linkedin = "https://www.linkedin.com/in/szymon-bolczyk/"
+copy_text = "Szymon Bolczyk"
+copy_link = "https://niebolczykuj.pl"
+language = "pl"
+
+[tool.braindead.config.i18n]
+languages = ["en", "pl"]
